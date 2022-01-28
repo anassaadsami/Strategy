@@ -9,6 +9,7 @@ public class Main {
 
         p1.checkInstance(new Student());   // AWESOME BY ME
         p1.checkInstance(new Teacher());
+        // hbuhbuhbu
     }
     }
 
